@@ -1,2 +1,5 @@
 /portfolio-v2/*
   Cache-Control: public, max-age=31536000, immutable
+
+/portfolio-v3/*
+  Cache-Control: public, max-age=31536000, immutable
